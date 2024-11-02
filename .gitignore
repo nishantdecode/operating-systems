@@ -1,1 +1,5 @@
 OS_000.jpeg
+.DS_Store
+.vscode/*
+.vscode/**/*
+.gitignore
